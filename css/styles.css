@@ -4,6 +4,79 @@
 
 
 
-#js-hidden{
+.js-hidden {
+  display: none;
+}
+
+.op-hidden {
+  display: none;
+}
+
+.v-hidden {
+  display: none;
+}
+
+
+.vn-hidden {
+  display: none;
+}
+
+.fun-hidden {
+  display: none;
+}
+
+.meth-hidden {
+  display: none;
+}
+
+.arg-hidden {
+  display: none;
+}
+
+.par-hidden {
+  display: none;
+}
+
+.ret-hidden {
+  display: none;
+}
+
+.chan-hidden {
+  display: none;
+}
+
+.str-hidden {
+  display: none;
+}
+
+.boo-hidden {
+  display: none;
+}
+
+.und-hidden {
+  display: none;
+}
+
+.nan-hidden {
+  display: none;
+}
+
+.esc-hidden {
+  display: none;
+}
+
+.al-hidden {
+  display: none;
+}
+
+.com-hidden {
+  display: none;
+}
+
+.jq-hidden {
+  display: none;
+}
+
+.at-hidden {
   display: none;
 }
